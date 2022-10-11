@@ -1,0 +1,18 @@
+
+
+.text {
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+};
+
+.container {
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+    margin-top: 10px;
+};
+.row {
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+    margin-top: 10px;
+};
